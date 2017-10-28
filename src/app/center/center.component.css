@@ -1,0 +1,42 @@
+#center-div{
+  position: absolute;
+  width: 700px;
+  height: 350px;
+  top :50%;
+  margin-top: -175px ;
+  left:50%;
+  margin-left: -350px;
+}
+#logo{
+  position: absolute;
+  height: 92px;
+  width:272px;
+  left:50%;
+  margin-left: -136px;
+  top:50px;
+}
+#searchbox{
+  position: absolute;
+  width: 696px;
+  height:40px;
+  top:170px;
+  color:black;
+  font-family: sans-serif;
+  font-size:20px;
+}
+.twoButtons{
+  position: absolute;
+  height:40px;
+  width:140px;
+  background-color: #f2f2f2;
+  top: 250px;
+  text-align: center;
+
+}
+.twoButtons p{
+  font-family: sans-serif;
+  font-weight: bold;
+  color:grey;
+  margin-top:13px;
+  font-size:14px;
+}
