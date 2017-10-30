@@ -1,4 +1,5 @@
 # ComponentAssignment
+Live Demo is hosted using [Github pages](https://jatin7gupta.github.io/Angular-Assignment-2/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
